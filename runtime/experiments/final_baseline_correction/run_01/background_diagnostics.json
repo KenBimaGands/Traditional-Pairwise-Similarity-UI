@@ -1,0 +1,110 @@
+[
+  {
+    "screen_id": "APP01-FLOW01-S00",
+    "background_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "original_foreground": 0.05389242256637168
+  },
+  {
+    "screen_id": "APP01-FLOW01-S02",
+    "background_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "original_foreground": 0.12471480918141593
+  },
+  {
+    "screen_id": "APP01-FLOW02-S04",
+    "background_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "original_foreground": 0.11263308904867257
+  },
+  {
+    "screen_id": "APP02-FLOW01-S01",
+    "background_rgb": [
+      47.0,
+      47.0,
+      47.0
+    ],
+    "original_foreground": 0.9614387444690266
+  },
+  {
+    "screen_id": "APP02-FLOW01-S013",
+    "background_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "original_foreground": 0.21442028484513273
+  },
+  {
+    "screen_id": "APP02-FLOW01-S014",
+    "background_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "original_foreground": 0.21805862831858408
+  },
+  {
+    "screen_id": "APP03-FLOW01-S00",
+    "background_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "original_foreground": 0.12755807522123894
+  },
+  {
+    "screen_id": "APP03-FLOW02-S00",
+    "background_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "original_foreground": 0.04828366980088496
+  },
+  {
+    "screen_id": "APP04-FLOW01-S00",
+    "background_rgb": [
+      24.0,
+      59.0,
+      54.0
+    ],
+    "original_foreground": 0.18942840189873417
+  },
+  {
+    "screen_id": "APP04-FLOW02-S03",
+    "background_rgb": [
+      100.0,
+      119.0,
+      115.0
+    ],
+    "original_foreground": 0.3481836761603376
+  },
+  {
+    "screen_id": "APP05-FLOW01-S00",
+    "background_rgb": [
+      20.0,
+      21.0,
+      29.0
+    ],
+    "original_foreground": 0.13802083333333334
+  },
+  {
+    "screen_id": "APP05-FLOW01-S04",
+    "background_rgb": [
+      215.0,
+      227.0,
+      223.0
+    ],
+    "original_foreground": 0.610067246835443
+  }
+]

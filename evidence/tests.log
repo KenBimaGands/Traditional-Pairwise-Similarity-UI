@@ -1,0 +1,10 @@
+test_individual_tau_execution (test_ecosystem.EcosystemTests.test_individual_tau_execution) ... ok
+test_missing_fixture_fails_before_output (test_ecosystem.EcosystemTests.test_missing_fixture_fails_before_output) ... ok
+test_original_numerical_checks (test_ecosystem.EcosystemTests.test_original_numerical_checks) ... ok
+test_packaged_integrity_and_no_graph_code (test_ecosystem.EcosystemTests.test_packaged_integrity_and_no_graph_code) ... ok
+test_reuse_full_workflow_and_refuse_overwrite (test_ecosystem.EcosystemTests.test_reuse_full_workflow_and_refuse_overwrite) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 58.223s
+
+OK

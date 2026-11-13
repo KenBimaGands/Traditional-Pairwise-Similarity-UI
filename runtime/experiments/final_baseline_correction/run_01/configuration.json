@@ -1,0 +1,38 @@
+{
+  "baseline": {
+    "max_dimension": 512,
+    "seed": 42,
+    "background_distance": 25.0,
+    "min_component_area": 12,
+    "blur_kernel": 5,
+    "blur_sigma": 1.0,
+    "canny_low": 50,
+    "canny_high": 150
+  },
+  "correction": {
+    "side_fraction": 0.035,
+    "side_step": 6.0,
+    "min_run_fraction": 0.25,
+    "min_run_span": 40.0,
+    "min_foreground": 0.5,
+    "smooth_step": 6.0,
+    "min_smooth_area": 0.35,
+    "default_enabled": false
+  },
+  "experiment_enabled": true,
+  "ROI": "Full original processed screenshot, identical to saved production baseline; no new cropping",
+  "sample_ids": [
+    "APP01-FLOW01-S00",
+    "APP01-FLOW01-S02",
+    "APP01-FLOW02-S04",
+    "APP02-FLOW01-S01",
+    "APP02-FLOW01-S013",
+    "APP02-FLOW01-S014",
+    "APP03-FLOW01-S00",
+    "APP03-FLOW02-S00",
+    "APP04-FLOW01-S00",
+    "APP04-FLOW02-S03",
+    "APP05-FLOW01-S00",
+    "APP05-FLOW01-S04"
+  ]
+}

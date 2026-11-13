@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Pairwise Similarity"
+  short_description: "Thesis pairwise similarity workflow"
+  default_prompt: "Use $pairwise-similarity in the ui-visual-consistency repository to validate inputs and complete the requested stage while preserving prior results."

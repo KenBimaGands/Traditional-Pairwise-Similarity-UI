@@ -1,0 +1,14 @@
+{
+  "feature_version": "results_corrected_pilot full 82-screen selected correction",
+  "screens": 82,
+  "pairs": 709,
+  "within_flow": 411,
+  "cross_flow": 298,
+  "smoke_pairs": 15,
+  "tests": 5,
+  "repeated_full_exports_byte_identical": true,
+  "all_exported_pairs_checked_for_symmetry": true,
+  "input_fingerprints_unchanged": true,
+  "color_similarity_computed": false,
+  "composite_computed": false
+}

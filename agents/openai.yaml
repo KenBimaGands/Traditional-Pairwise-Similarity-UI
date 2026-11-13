@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Visual Consistency Orchestrator"
+  short_description: "Route six pre-graph thesis analysis stages safely"
+  default_prompt: "Use $ui-visual-consistency to run or review the required pre-graph stages, reuse validated outputs and preserve prior results."

@@ -1,0 +1,11 @@
+pair_type,app_id,pairs
+within_flow,APP01,148
+within_flow,APP02,126
+within_flow,APP03,97
+within_flow,APP04,20
+within_flow,APP05,20
+cross_flow,APP01,128
+cross_flow,APP02,64
+cross_flow,APP03,56
+cross_flow,APP04,25
+cross_flow,APP05,25

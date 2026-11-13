@@ -1,0 +1,20 @@
+{
+  "original_input_paths": {
+    "/Users/kenmac/Documents/thesis-dataset/results_corrected_pilot/visual_features.csv": "d9d2916fdd817f5bba17e9a10d30a59d9921c31237628b23f416b37ee7d19239",
+    "/Users/kenmac/Documents/thesis-dataset/results_corrected_pilot/layout_vectors.csv": "9223753d77e1bf3fc88e1c0548b724a09add4e5c451ccd5383591ec4bcd61dbb",
+    "/Users/kenmac/Documents/thesis-dataset/results_corrected_pilot/color_palettes.json": "d0f08e4d9d20bb2554c56834b2e9e21c90219ba49bef8cb007d6e99ec458d628",
+    "/Users/kenmac/Documents/thesis-dataset/results_corrected_pilot/configuration.json": "224c3fefa1b7a57de697f9a3a3d14970999e50e3e61cc25dcd585f67553b70aa",
+    "/Users/kenmac/Documents/thesis-dataset/results_corrected_pilot/run_summary.json": "f52f375ceb7338b85cdb1cdb175078cd4704c1158ac31d90f49c9be033a85836",
+    "/Users/kenmac/Documents/thesis-dataset/PILOT/screenshots/screens.csv": "4f7813f20108807472c1f6595b4117f451bacc68ea154eff7289365f51b8267f",
+    "/Users/kenmac/Documents/thesis-dataset/PILOT/screenshots/flows.csv": "36f90441a649fb2ad97f4b2dad0114a44579d21c76d56198e906f68cb01e7cb8"
+  },
+  "relocated_input_paths": {
+    "/private/tmp/ui-ecosystem-e2e-01/workspace/results_corrected_pilot/visual_features.csv": "d9d2916fdd817f5bba17e9a10d30a59d9921c31237628b23f416b37ee7d19239",
+    "/private/tmp/ui-ecosystem-e2e-01/workspace/results_corrected_pilot/layout_vectors.csv": "9223753d77e1bf3fc88e1c0548b724a09add4e5c451ccd5383591ec4bcd61dbb",
+    "/private/tmp/ui-ecosystem-e2e-01/workspace/results_corrected_pilot/color_palettes.json": "d0f08e4d9d20bb2554c56834b2e9e21c90219ba49bef8cb007d6e99ec458d628",
+    "/private/tmp/ui-ecosystem-e2e-01/workspace/results_corrected_pilot/configuration.json": "224c3fefa1b7a57de697f9a3a3d14970999e50e3e61cc25dcd585f67553b70aa",
+    "/private/tmp/ui-ecosystem-e2e-01/workspace/results_corrected_pilot/run_summary.json": "f52f375ceb7338b85cdb1cdb175078cd4704c1158ac31d90f49c9be033a85836",
+    "/private/tmp/ui-ecosystem-e2e-01/workspace/PILOT/screenshots/screens.csv": "4f7813f20108807472c1f6595b4117f451bacc68ea154eff7289365f51b8267f",
+    "/private/tmp/ui-ecosystem-e2e-01/workspace/PILOT/screenshots/flows.csv": "36f90441a649fb2ad97f4b2dad0114a44579d21c76d56198e906f68cb01e7cb8"
+  }
+}

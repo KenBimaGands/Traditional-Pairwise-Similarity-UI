@@ -1,0 +1,66 @@
+{
+  "stages": [
+    {
+      "stage": "feature-extraction",
+      "status": "recomputed_validated",
+      "location": "workspace/artifacts/feature-extraction",
+      "checks": {
+        "screens": 82,
+        "activation": [
+          "APP02-FLOW01-S01"
+        ]
+      }
+    },
+    {
+      "stage": "pairwise-similarity",
+      "status": "recomputed_validated",
+      "location": "workspace/artifacts/pairwise-similarity",
+      "checks": {
+        "pairs": 709,
+        "validated_stage": "pairwise-similarity"
+      }
+    },
+    {
+      "stage": "descriptor-investigation",
+      "status": "recomputed_validated",
+      "location": "workspace/artifacts/descriptor-investigation",
+      "checks": {
+        "pairs": 709,
+        "validated_stage": "descriptor-investigation"
+      }
+    },
+    {
+      "stage": "edge-similarity",
+      "status": "recomputed_validated",
+      "location": "workspace/artifacts/edge-similarity",
+      "checks": {
+        "pairs": 709,
+        "validated_stage": "edge-similarity"
+      }
+    },
+    {
+      "stage": "composite-scoring",
+      "status": "recomputed_validated",
+      "location": "workspace/artifacts/composite-scoring",
+      "checks": {
+        "pairs": 709,
+        "validated_stage": "composite-scoring"
+      }
+    },
+    {
+      "stage": "tau-sensitivity",
+      "status": "recomputed_validated",
+      "location": "workspace/artifacts/tau-sensitivity",
+      "checks": {
+        "pairs": 709,
+        "validated_stage": "tau-sensitivity"
+      }
+    }
+  ],
+  "source_project": "/Users/kenmac/Documents/thesis-dataset/Traditional Pairwise Similarity/ui-visual-consistency/runtime",
+  "input_files_unchanged": true,
+  "graph_methods_included": false,
+  "research_parameters_changed": false,
+  "script_sha256": "a9d1725e44b492fccbe7e440a56a7efdeeda07b2b569fa843c36e5e4e62e5ca1",
+  "runtime_source_manifest_sha256": "63b86658587016b7047cab4d6ed6ddf8e1810c929c50c4aefd85523932bc024d"
+}

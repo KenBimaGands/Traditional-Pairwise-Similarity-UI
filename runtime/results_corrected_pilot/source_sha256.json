@@ -1,0 +1,8 @@
+{
+  "extract_features.py": "94ef6c433eb77473db6405c7180a593a4e5cd157dbc14363d24bb3ef6228675c",
+  "experiments/final_baseline_correction/correct.py": "79024ab214c992097f3505fbe8010aacd059b84ca77dfa0dcee413d8393e9d15",
+  "experiments/final_baseline_correction/run_pilot.py": "f5ed5feb2b2e0a4abfb2e6d0063235ae7e73f2488a346f762018ab6d39f37492",
+  "experiments/preprocessing_v2/revised_pipeline.py": "5febcec2777bde25d43e9a72b3c81c11a67f798412a71b2f03f593b6866d13ca",
+  "experiments/preprocessing_v2/review_assets.py": "cf7915216f53c6589dda5ee33cccbbad92669ce8f0be8603e7a5b458026b4522",
+  "requirements-lock.txt": "b34c89346236cc03f2a0d794691bb866615e0f67b43df0f3630c97ce57c9e057"
+}

@@ -1,0 +1,6 @@
+{
+  "experiments/final_baseline_correction/correct.py": "f2bbc9bc23d43323326661d2ba9a77f91b8acdf94ec15bb9fc073e746047eec6",
+  "experiments/final_baseline_correction/test_correction.py": "bca8c6f5f5b5f23f0eefa80d865b4d450203fa976756c8882fb8f16ee0b78430",
+  "experiments/final_baseline_correction/README.md": "fe171c23a3661a827f9983ddcd7428b16496292d1c50bed4b7eceea0968d97c4",
+  "requirements-lock.txt": "b34c89346236cc03f2a0d794691bb866615e0f67b43df0f3630c97ce57c9e057"
+}

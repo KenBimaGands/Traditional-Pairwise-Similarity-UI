@@ -1,0 +1,8 @@
+Command: .venv/bin/python -m unittest discover -s experiments/edge_similarity_evaluation -p 'test_evaluation.py' -v
+
+3 tests passed in 34.477 seconds in the existing Python environment:
+- test_complete_reproduction: two full temporary runs matched each other and the saved generated outputs byte-for-byte, including PNG figures; overwrite rejected.
+- test_metric_definitions: identity, symmetry, zeros, finite/bounded analytic examples, log-ratio equivalence, epsilon limit, invalid input rejection.
+- test_sampling_and_baseline: all saved M0 values matched, 24 unique pairs, all applications in both strata, score-independent sampling, deterministic sampling, shortfall case.
+
+Protected file hashes unchanged in both temporary runs and the saved run.

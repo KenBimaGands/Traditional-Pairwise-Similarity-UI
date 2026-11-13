@@ -1,0 +1,1 @@
+{"screens": 82, "pairs": 709, "within_flow": 411, "cross_flow": 298, "random_pairs": 24, "baseline_M0_exact": true, "symmetry": true, "bounds": true, "positive_epsilon_limit": true, "random_sample_reproduced": true, "original_edge_maps_density_and_dimensions_match": true, "protected_files_unchanged": true}

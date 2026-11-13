@@ -1,0 +1,159 @@
+{
+  "compared_files": [
+    {
+      "stage": "feature-extraction",
+      "file": "visual_features.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "feature-extraction",
+      "file": "color_palettes.json",
+      "equal": true,
+      "comparison": "parsed JSON"
+    },
+    {
+      "stage": "feature-extraction",
+      "file": "bounding_boxes.json",
+      "equal": true,
+      "comparison": "parsed JSON"
+    },
+    {
+      "stage": "feature-extraction",
+      "file": "layout_vectors.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "feature-extraction",
+      "file": "triggers.json",
+      "equal": true,
+      "comparison": "parsed JSON"
+    },
+    {
+      "stage": "feature-extraction",
+      "file": "differences.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "pairwise-similarity",
+      "file": "pairwise_distances.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "pairwise-similarity",
+      "file": "pairwise_similarities.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "pairwise-similarity",
+      "file": "pairwise_summary.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "pairwise-similarity",
+      "file": "pair_counts.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "descriptor-investigation",
+      "file": "descriptive_statistics.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "descriptor-investigation",
+      "file": "selected_examples.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "descriptor-investigation",
+      "file": "screen_diagnostics.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "descriptor-investigation",
+      "file": "diagnostic_cases.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "edge-similarity",
+      "file": "edge_similarity_comparison.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "edge-similarity",
+      "file": "random_pairs.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "edge-similarity",
+      "file": "epsilon_sensitivity.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "edge-similarity",
+      "file": "rank_correlations.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "composite-scoring",
+      "file": "composite_scores.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "composite-scoring",
+      "file": "sensitivity_analysis.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "composite-scoring",
+      "file": "composite_summary.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "composite-scoring",
+      "file": "sensitivity_summary.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "tau-sensitivity",
+      "file": "tau_review_assets/summary.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "tau-sensitivity",
+      "file": "tau_review_assets/rank_changes.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    },
+    {
+      "stage": "tau-sensitivity",
+      "file": "tau_review_assets/most_affected_pairs.csv",
+      "equal": true,
+      "comparison": "exact bytes"
+    }
+  ],
+  "all_numerical_outputs_match": true,
+  "packaged_source_files": 586,
+  "original_research_files_unchanged": true,
+  "skill_definitions_validated": 7,
+  "graph_source_excluded": true
+}

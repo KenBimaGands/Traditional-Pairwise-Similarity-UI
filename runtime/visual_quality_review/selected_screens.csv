@@ -1,0 +1,13 @@
+screen_id,screen_name,reason,foreground_coverage,edge_density,component_count,existing_plot
+APP01-FLOW01-S00,Lightyear Splash,foreground_coverage: lowest two; edge_density: lowest two; component_count: lowest two,0.05389242256637168,0.010128595132743362,7,results/visualizations/0000.png
+APP01-FLOW01-S02,Create Account - Empty,Pale form boundaries,0.12471480918141593,0.02958206581858407,41,results/visualizations/0002.png
+APP01-FLOW02-S04,Portfolio - Monthly Performance,Line chart and floating navigation,0.11263308904867257,0.037576050884955754,58,results/visualizations/0020.png
+APP02-FLOW01-S01,Welcome - Earn Cashback,foreground_coverage: highest two; component_count: lowest two,0.9614387444690266,0.040955129977876106,6,results/visualizations/0025.png
+APP02-FLOW01-S013,Debit Card and ATM Fees,edge_density: highest two; component_count: highest two,0.21442028484513273,0.10851942754424779,204,results/visualizations/0037.png
+APP02-FLOW01-S014,Accept Legal Terms,edge_density: highest two; component_count: highest two,0.21805862831858408,0.08250656803097345,177,results/visualizations/0038.png
+APP03-FLOW01-S00,Home - Image Creation Announcement,Announcement and conversational UI,0.12755807522123894,0.033401894358407076,49,results/visualizations/0044.png
+APP03-FLOW02-S00,ChatGPT Splash,foreground_coverage: lowest two; edge_density: lowest two,0.04828366980088496,0.006974211836283186,7,results/visualizations/0048.png
+APP04-FLOW01-S00,Welcome to WellNest,Application 4 welcome screen,0.18942840189873417,0.023083135548523207,35,results/visualizations/0062.png
+APP04-FLOW02-S03,Review Consultation Booking,Application 4 booking review,0.3481836761603376,0.029206223628691984,30,results/visualizations/0070.png
+APP05-FLOW01-S00,Review Source Document,Application 5 document review,0.13802083333333334,0.041683148734177215,60,results/visualizations/0072.png
+APP05-FLOW01-S04,Action Plan Saved,foreground_coverage: highest two,0.610067246835443,0.04223529799578059,41,results/visualizations/0076.png

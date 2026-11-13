@@ -1,0 +1,48 @@
+{
+  "feature_source": "results_corrected_pilot",
+  "pairwise_source": "results_pairwise_baseline",
+  "baseline": {
+    "tau": 10,
+    "edge_method": "M1",
+    "group_weights": [
+      0.3333333333333333,
+      0.3333333333333333,
+      0.3333333333333333
+    ],
+    "density_weights": [
+      0.5,
+      0.5
+    ]
+  },
+  "sensitivity": [
+    {
+      "name": "baseline_v1",
+      "tau": 10,
+      "edge_method": "M1"
+    },
+    {
+      "name": "color_tau5",
+      "tau": 5,
+      "edge_method": "M1"
+    },
+    {
+      "name": "color_tau20",
+      "tau": 20,
+      "edge_method": "M1"
+    },
+    {
+      "name": "edge_M0",
+      "tau": 10,
+      "edge_method": "M0"
+    }
+  ],
+  "rank_definition": "descending composite, average tied ranks; global in pair tables, within app/type group in summary",
+  "selection": "purposive low/lower-median/high within each app/type; sensitivity extrema and largest rank shifts; not random",
+  "dependencies": {
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "source_sha256": "5c842627ffd11870da347d9ac09beb1733c03ce10663524ad6809f24f53ada99",
+  "pairwise_helper_sha256": "b60da0f9203f534cbbd172b21f7af21b7ea24273a7d37d59644b2d020881c918"
+}

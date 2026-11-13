@@ -1,0 +1,16 @@
+{
+  "screens": 82,
+  "pairs": 709,
+  "pair_types": {
+    "within_flow": 411,
+    "cross_flow": 298
+  },
+  "configurations": 4,
+  "all_identifiers_valid": true,
+  "no_duplicates_or_missing": true,
+  "approved_input_hashes_match": true,
+  "saved_M0_foreground_layout_match": true,
+  "finite_bounded": true,
+  "historical_files_unchanged": true,
+  "no_extraction_or_transport_rerun": true
+}

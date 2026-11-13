@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Edge Similarity"
+  short_description: "Thesis edge similarity workflow"
+  default_prompt: "Use $edge-similarity in the ui-visual-consistency repository to validate inputs and complete the requested stage while preserving prior results."

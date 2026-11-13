@@ -1,0 +1,1354 @@
+{
+  "APP01-FLOW01-S00": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 3.4641016151377544
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 512,
+        "length_fraction": 0.04296875,
+        "span": 1.7320508075688772
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 3.4641016151377544
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 512,
+        "length_fraction": 0.04296875,
+        "span": 3.4641016151377544
+      }
+    ],
+    "baseline_coverage": 0.05389242256637168,
+    "reason": "insufficient_gradient_evidence"
+  },
+  "APP01-FLOW01-S02": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 3.4641016151377544
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 512,
+        "length_fraction": 0.04296875,
+        "span": 1.7320508075688772
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 3.4641016151377544
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 512,
+        "length_fraction": 0.04296875,
+        "span": 2.598076211353316
+      }
+    ],
+    "baseline_coverage": 0.12471480918141593,
+    "reason": "insufficient_gradient_evidence"
+  },
+  "APP01-FLOW02-S04": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 3.4641016151377544
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 512,
+        "length_fraction": 0.04296875,
+        "span": 1.7320508075688772
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 3.4641016151377544
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 512,
+        "length_fraction": 0.04296875,
+        "span": 2.598076211353316
+      }
+    ],
+    "baseline_coverage": 0.11263308904867257,
+    "reason": "insufficient_gradient_evidence"
+  },
+  "APP02-FLOW01-S01": {
+    "enabled": true,
+    "trigger": true,
+    "left_gradient": true,
+    "right_gradient": true,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 174.49641830135081
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 512,
+        "length_fraction": 0.04296875,
+        "span": 4.123105625617661
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 51.80974811751163
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 512,
+        "length_fraction": 0.04296875,
+        "span": 5.361902647381804
+      }
+    ],
+    "baseline_coverage": 0.9614387444690266,
+    "reason": "suppress_one_smooth_border_connected_region",
+    "smooth_region_fraction": 0.7587890625,
+    "removed_pixels": 87801
+  },
+  "APP02-FLOW01-S013": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 1.7320508075688772
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 491,
+        "end": 512,
+        "length_fraction": 0.041015625,
+        "span": 1.7320508075688772
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 1.7320508075688772
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 491,
+        "end": 512,
+        "length_fraction": 0.041015625,
+        "span": 2.598076211353316
+      }
+    ],
+    "baseline_coverage": 0.21442028484513273,
+    "reason": "insufficient_gradient_evidence"
+  },
+  "APP02-FLOW01-S014": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 370,
+        "length_fraction": 0.72265625,
+        "span": 0.0
+      },
+      {
+        "start": 370,
+        "end": 371,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 371,
+        "end": 372,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 372,
+        "end": 488,
+        "length_fraction": 0.2265625,
+        "span": 1.7320508075688772
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 491,
+        "end": 512,
+        "length_fraction": 0.041015625,
+        "span": 1.7320508075688772
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 56,
+        "length_fraction": 0.109375,
+        "span": 0.0
+      },
+      {
+        "start": 56,
+        "end": 75,
+        "length_fraction": 0.037109375,
+        "span": 1.7320508075688772
+      },
+      {
+        "start": 75,
+        "end": 119,
+        "length_fraction": 0.0859375,
+        "span": 3.4641016151377544
+      },
+      {
+        "start": 119,
+        "end": 175,
+        "length_fraction": 0.109375,
+        "span": 10.392304845413264
+      },
+      {
+        "start": 175,
+        "end": 176,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 176,
+        "end": 177,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 177,
+        "end": 178,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 178,
+        "end": 180,
+        "length_fraction": 0.00390625,
+        "span": 2.9154759474226504
+      },
+      {
+        "start": 180,
+        "end": 181,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 181,
+        "end": 188,
+        "length_fraction": 0.013671875,
+        "span": 1.7320508075688772
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 189,
+        "end": 190,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 190,
+        "end": 193,
+        "length_fraction": 0.005859375,
+        "span": 5.787918451395113
+      },
+      {
+        "start": 193,
+        "end": 214,
+        "length_fraction": 0.041015625,
+        "span": 0.8660254037844386
+      },
+      {
+        "start": 214,
+        "end": 215,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 215,
+        "end": 216,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 216,
+        "end": 217,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 218,
+        "end": 370,
+        "length_fraction": 0.296875,
+        "span": 0.8660254037844386
+      },
+      {
+        "start": 370,
+        "end": 371,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 371,
+        "end": 372,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 372,
+        "end": 488,
+        "length_fraction": 0.2265625,
+        "span": 1.7320508075688772
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 491,
+        "end": 512,
+        "length_fraction": 0.041015625,
+        "span": 2.598076211353316
+      }
+    ],
+    "baseline_coverage": 0.21805862831858408,
+    "reason": "insufficient_gradient_evidence"
+  },
+  "APP03-FLOW01-S00": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 201,
+        "length_fraction": 0.392578125,
+        "span": 8.660254037844387
+      },
+      {
+        "start": 201,
+        "end": 202,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 202,
+        "end": 215,
+        "length_fraction": 0.025390625,
+        "span": 12.698425099200294
+      },
+      {
+        "start": 215,
+        "end": 221,
+        "length_fraction": 0.01171875,
+        "span": 6.363961030678928
+      },
+      {
+        "start": 221,
+        "end": 232,
+        "length_fraction": 0.021484375,
+        "span": 10.965856099730654
+      },
+      {
+        "start": 232,
+        "end": 240,
+        "length_fraction": 0.015625,
+        "span": 4.183300132670378
+      },
+      {
+        "start": 240,
+        "end": 241,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 241,
+        "end": 488,
+        "length_fraction": 0.482421875,
+        "span": 13.856406460551018
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 491,
+        "end": 512,
+        "length_fraction": 0.041015625,
+        "span": 1.7320508075688772
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 200,
+        "length_fraction": 0.390625,
+        "span": 9.526279441628825
+      },
+      {
+        "start": 200,
+        "end": 201,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 201,
+        "end": 207,
+        "length_fraction": 0.01171875,
+        "span": 3.5355339059327378
+      },
+      {
+        "start": 207,
+        "end": 208,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 208,
+        "end": 216,
+        "length_fraction": 0.015625,
+        "span": 6.103277807866851
+      },
+      {
+        "start": 216,
+        "end": 217,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 218,
+        "end": 225,
+        "length_fraction": 0.013671875,
+        "span": 4.123105625617661
+      },
+      {
+        "start": 225,
+        "end": 230,
+        "length_fraction": 0.009765625,
+        "span": 7.176350047203662
+      },
+      {
+        "start": 230,
+        "end": 231,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 231,
+        "end": 239,
+        "length_fraction": 0.015625,
+        "span": 7.648529270389178
+      },
+      {
+        "start": 239,
+        "end": 240,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 240,
+        "end": 488,
+        "length_fraction": 0.484375,
+        "span": 13.856406460551018
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 491,
+        "end": 512,
+        "length_fraction": 0.041015625,
+        "span": 2.598076211353316
+      }
+    ],
+    "baseline_coverage": 0.12755807522123894,
+    "reason": "insufficient_gradient_evidence"
+  },
+  "APP03-FLOW02-S00": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 1.7320508075688772
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 491,
+        "end": 512,
+        "length_fraction": 0.041015625,
+        "span": 1.7320508075688772
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 488,
+        "length_fraction": 0.953125,
+        "span": 1.7320508075688772
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 491,
+        "end": 512,
+        "length_fraction": 0.041015625,
+        "span": 2.598076211353316
+      }
+    ],
+    "baseline_coverage": 0.04828366980088496,
+    "reason": "insufficient_gradient_evidence"
+  },
+  "APP04-FLOW01-S00": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 5,
+        "length_fraction": 0.009765625,
+        "span": 2.179449471770337
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 8,
+        "end": 504,
+        "length_fraction": 0.96875,
+        "span": 2.9154759474226504
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 506,
+        "end": 507,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 507,
+        "end": 512,
+        "length_fraction": 0.009765625,
+        "span": 2.179449471770337
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 5,
+        "length_fraction": 0.009765625,
+        "span": 2.179449471770337
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 8,
+        "end": 504,
+        "length_fraction": 0.96875,
+        "span": 2.9154759474226504
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 506,
+        "end": 507,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 507,
+        "end": 512,
+        "length_fraction": 0.009765625,
+        "span": 2.179449471770337
+      }
+    ],
+    "baseline_coverage": 0.18942840189873417,
+    "reason": "insufficient_gradient_evidence"
+  },
+  "APP04-FLOW02-S03": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 5,
+        "length_fraction": 0.009765625,
+        "span": 0.8660254037844386
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 8,
+        "end": 504,
+        "length_fraction": 0.96875,
+        "span": 1.7320508075688772
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 506,
+        "end": 507,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 507,
+        "end": 512,
+        "length_fraction": 0.009765625,
+        "span": 0.8660254037844386
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 5,
+        "length_fraction": 0.009765625,
+        "span": 0.8660254037844386
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 8,
+        "end": 504,
+        "length_fraction": 0.96875,
+        "span": 1.7320508075688772
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 506,
+        "end": 507,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 507,
+        "end": 512,
+        "length_fraction": 0.009765625,
+        "span": 0.8660254037844386
+      }
+    ],
+    "baseline_coverage": 0.3481836761603376,
+    "reason": "insufficient_gradient_evidence"
+  },
+  "APP05-FLOW01-S00": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 5,
+        "length_fraction": 0.009765625,
+        "span": 2.598076211353316
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 8,
+        "end": 504,
+        "length_fraction": 0.96875,
+        "span": 3.4641016151377544
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 506,
+        "end": 507,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 507,
+        "end": 512,
+        "length_fraction": 0.009765625,
+        "span": 2.598076211353316
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 5,
+        "length_fraction": 0.009765625,
+        "span": 2.598076211353316
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 8,
+        "end": 504,
+        "length_fraction": 0.96875,
+        "span": 3.4641016151377544
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 506,
+        "end": 507,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 507,
+        "end": 512,
+        "length_fraction": 0.009765625,
+        "span": 2.598076211353316
+      }
+    ],
+    "baseline_coverage": 0.13802083333333334,
+    "reason": "insufficient_gradient_evidence"
+  },
+  "APP05-FLOW01-S04": {
+    "enabled": true,
+    "trigger": false,
+    "left_gradient": false,
+    "right_gradient": false,
+    "left_runs": [
+      {
+        "start": 0,
+        "end": 5,
+        "length_fraction": 0.009765625,
+        "span": 2.598076211353316
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 8,
+        "end": 57,
+        "length_fraction": 0.095703125,
+        "span": 5.196152422706632
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 59,
+        "end": 60,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 60,
+        "end": 427,
+        "length_fraction": 0.716796875,
+        "span": 5.196152422706632
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 428,
+        "end": 429,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 429,
+        "end": 504,
+        "length_fraction": 0.146484375,
+        "span": 3.4641016151377544
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 506,
+        "end": 507,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 507,
+        "end": 512,
+        "length_fraction": 0.009765625,
+        "span": 2.598076211353316
+      }
+    ],
+    "right_runs": [
+      {
+        "start": 0,
+        "end": 5,
+        "length_fraction": 0.009765625,
+        "span": 2.598076211353316
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 8,
+        "end": 57,
+        "length_fraction": 0.095703125,
+        "span": 5.196152422706632
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 59,
+        "end": 60,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 60,
+        "end": 427,
+        "length_fraction": 0.716796875,
+        "span": 5.196152422706632
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 428,
+        "end": 429,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 429,
+        "end": 504,
+        "length_fraction": 0.146484375,
+        "span": 2.598076211353316
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 506,
+        "end": 507,
+        "length_fraction": 0.001953125,
+        "span": 0.0
+      },
+      {
+        "start": 507,
+        "end": 512,
+        "length_fraction": 0.009765625,
+        "span": 2.598076211353316
+      }
+    ],
+    "baseline_coverage": 0.610067246835443,
+    "reason": "insufficient_gradient_evidence"
+  }
+}

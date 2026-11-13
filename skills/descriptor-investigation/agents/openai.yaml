@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Descriptor Investigation"
+  short_description: "Thesis descriptor investigation workflow"
+  default_prompt: "Use $descriptor-investigation in the ui-visual-consistency repository to validate inputs and complete the requested stage while preserving prior results."

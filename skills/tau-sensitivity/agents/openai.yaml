@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Tau Sensitivity"
+  short_description: "Thesis tau sensitivity workflow"
+  default_prompt: "Use $tau-sensitivity in the ui-visual-consistency repository to validate inputs and complete the requested stage while preserving prior results."

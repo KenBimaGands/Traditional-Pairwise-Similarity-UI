@@ -1,0 +1,11 @@
+﻿app_id,app_name,flow_id,flow_name,source
+APP01,unknown,APP01-FLOW01,unknown,unknown
+APP01,unknown,APP01-FLOW02,unknown,unknown
+APP02,unknown,APP02-FLOW01,unknown,unknown
+APP02,unknown,APP02-FLOW02,unknown,unknown
+APP03,unknown,APP03-FLOW01,unknown,unknown
+APP03,unknown,APP03-FLOW02,unknown,unknown
+APP04,unknown,APP04-FLOW01,unknown,unknown
+APP04,unknown,APP04-FLOW02,unknown,unknown
+APP05,unknown,APP05-FLOW01,unknown,unknown
+APP05,unknown,APP05-FLOW02,unknown,unknown

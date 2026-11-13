@@ -1,0 +1,6 @@
+screen_id,patch_index,label,pixels,baseline,corrected
+APP02-FLOW01-S01,0,background,3300,3300,0
+APP02-FLOW01-S01,1,background,4400,4400,0
+APP02-FLOW01-S01,2,foreground,225,223,223
+APP04-FLOW01-S00,3,foreground,1550,1550,1550
+APP05-FLOW01-S04,4,background,6200,0,0

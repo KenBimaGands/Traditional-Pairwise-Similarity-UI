@@ -1,0 +1,30 @@
+{
+  "seed": 42,
+  "epsilon": 1e-05,
+  "epsilon_values": [
+    1e-08,
+    1e-06,
+    1e-05,
+    0.0001,
+    0.001
+  ],
+  "feature_source": "results_corrected_pilot/visual_features.csv",
+  "edge_map_source": "results/visualizations; saved rendered Canny panels; no Canny rerun",
+  "sampling": "12 per pair_type, balanced round-robin seeded application order; random without replacement within app/type; sorted ID pools; no scores used",
+  "requested_per_stratum": 12,
+  "actual_per_stratum": {
+    "within_flow": 12,
+    "cross_flow": 12
+  },
+  "shortfall_per_stratum": {
+    "within_flow": 0,
+    "cross_flow": 0
+  },
+  "near_tolerances": [
+    1e-12,
+    1e-06
+  ],
+  "numpy": "2.2.6",
+  "scipy": "1.18.1",
+  "source_sha256": "71707dd989a4ff11faa391c1aff8d6ac3ed05d8d4cb6d7a2f42bb58051d034c4"
+}

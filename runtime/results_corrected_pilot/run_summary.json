@@ -1,0 +1,18 @@
+{
+  "requested": 82,
+  "extracted": 82,
+  "errors": [],
+  "activated": [
+    "APP02-FLOW01-S01"
+  ],
+  "protected_files_unchanged": true,
+  "baseline_reproduced": true,
+  "correction_repeatability": true,
+  "selected_sample_reproduced": true,
+  "exported_files_verified": true,
+  "baseline_unchanged_screens": 81,
+  "original_numerical_tests": 5,
+  "visually_reviewed_activated_screens": [
+    "APP02-FLOW01-S01"
+  ]
+}

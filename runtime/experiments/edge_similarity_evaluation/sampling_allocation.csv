@@ -1,0 +1,11 @@
+pair_type,app_id,eligible,selected
+within_flow,APP01,148,2
+within_flow,APP02,126,2
+within_flow,APP03,97,3
+within_flow,APP04,20,2
+within_flow,APP05,20,3
+cross_flow,APP01,128,3
+cross_flow,APP02,64,2
+cross_flow,APP03,56,2
+cross_flow,APP04,25,3
+cross_flow,APP05,25,2

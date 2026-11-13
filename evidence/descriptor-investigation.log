@@ -1,0 +1,16 @@
+{
+  "screens": 82,
+  "pairs": 709,
+  "within_flow": 411,
+  "cross_flow": 298,
+  "records_aligned": true,
+  "numerical_ranges_valid": true,
+  "exact_reproduction_against_saved_exports": true,
+  "two_repeated_exports_identical": true,
+  "protected_files_unchanged": true,
+  "selections": 120,
+  "inspection_sheets": 40,
+  "unique_selected_pairs": 95,
+  "features_recomputed": false,
+  "formulas_changed": false
+}

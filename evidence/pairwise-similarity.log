@@ -1,0 +1,46 @@
+{
+  "screens": 82,
+  "pairs": 709,
+  "applications": [
+    {
+      "app_id": "APP01",
+      "screens": 24,
+      "expected_full_pairs": 276,
+      "exported_pairs": 276,
+      "within_flow": 148,
+      "cross_flow": 128
+    },
+    {
+      "app_id": "APP02",
+      "screens": 20,
+      "expected_full_pairs": 190,
+      "exported_pairs": 190,
+      "within_flow": 126,
+      "cross_flow": 64
+    },
+    {
+      "app_id": "APP03",
+      "screens": 18,
+      "expected_full_pairs": 153,
+      "exported_pairs": 153,
+      "within_flow": 97,
+      "cross_flow": 56
+    },
+    {
+      "app_id": "APP04",
+      "screens": 10,
+      "expected_full_pairs": 45,
+      "exported_pairs": 45,
+      "within_flow": 20,
+      "cross_flow": 25
+    },
+    {
+      "app_id": "APP05",
+      "screens": 10,
+      "expected_full_pairs": 45,
+      "exported_pairs": 45,
+      "within_flow": 20,
+      "cross_flow": 25
+    }
+  ]
+}

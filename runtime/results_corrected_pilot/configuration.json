@@ -1,0 +1,25 @@
+{
+  "baseline": {
+    "max_dimension": 512,
+    "seed": 42,
+    "background_distance": 25.0,
+    "min_component_area": 12,
+    "blur_kernel": 5,
+    "blur_sigma": 1.0,
+    "canny_low": 50,
+    "canny_high": 150
+  },
+  "correction": {
+    "side_fraction": 0.035,
+    "side_step": 6.0,
+    "min_run_fraction": 0.25,
+    "min_run_span": 40.0,
+    "min_foreground": 0.5,
+    "smooth_step": 6.0,
+    "min_smooth_area": 0.35,
+    "default_enabled": false
+  },
+  "correction_enabled": true,
+  "analyzed_region": "Complete original processed image, no cropping",
+  "screenshot_count": 82
+}

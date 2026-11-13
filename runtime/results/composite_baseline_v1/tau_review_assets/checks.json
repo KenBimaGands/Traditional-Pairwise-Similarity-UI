@@ -1,0 +1,16 @@
+{
+  "saved_tau_values": [
+    5,
+    10,
+    20
+  ],
+  "pairs_per_tau": 709,
+  "within_flow": 411,
+  "cross_flow": 298,
+  "all_other_parameters_fixed": true,
+  "formula_absolute_tolerance": 1e-15,
+  "baseline_matches_exactly": true,
+  "original_files_unchanged": true,
+  "source_sha256": "4dfca13d847afdc8ffa70aed62843c5f2138ee91c13ab236fdd0d70bed1d0178",
+  "reviewer_source_sha256": "e18a9cc639d4b5cd3e6982f49c02cc2004df5c62c178072db74f0446a36b1406"
+}

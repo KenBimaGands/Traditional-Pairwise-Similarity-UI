@@ -1,0 +1,83 @@
+﻿screen_id,app_id,flow_id,screen_order,screen_name,screen_role,image_path
+APP01-FLOW01-S00,APP01,APP01-FLOW01,1,Lightyear Splash,splash,APP01/FLOW01/S00.png
+APP01-FLOW01-S01,APP01,APP01-FLOW01,2,Welcome to Lightyear,welcome,APP01/FLOW01/S01.png
+APP01-FLOW01-S02,APP01,APP01-FLOW01,3,Create Account - Empty,registration,APP01/FLOW01/S02.png
+APP01-FLOW01-S03,APP01,APP01-FLOW01,4,Create Account - Filled,registration,APP01/FLOW01/S03.png
+APP01-FLOW01-S04,APP01,APP01-FLOW01,5,Enable Face ID,security_setup,APP01/FLOW01/S04.png
+APP01-FLOW01-S05,APP01,APP01-FLOW01,6,How We Use Your Data,privacy_consent,APP01/FLOW01/S05.png
+APP01-FLOW01-S06,APP01,APP01-FLOW01,7,Check Your Inbox,email_activation,APP01/FLOW01/S06.png
+APP01-FLOW01-S07,APP01,APP01-FLOW01,8,Phone Number - Empty,phone_input,APP01/FLOW01/S07.png
+APP01-FLOW01-S08,APP01,APP01-FLOW01,9,Phone Number - Filled,phone_input,APP01/FLOW01/S08.png
+APP01-FLOW01-S09,APP01,APP01-FLOW01,10,Enter SMS Code,verification,APP01/FLOW01/S09.png
+APP01-FLOW01-S010,APP01,APP01-FLOW01,11,Personal Details - Empty,profile_setup,APP01/FLOW01/S010.png
+APP01-FLOW01-S011,APP01,APP01-FLOW01,12,Personal Details - Filled,profile_setup,APP01/FLOW01/S011.png
+APP01-FLOW01-S012,APP01,APP01-FLOW01,13,Address Search - Empty,address_input,APP01/FLOW01/S012.png
+APP01-FLOW01-S013,APP01,APP01-FLOW01,14,Address Search Results,address_selection,APP01/FLOW01/S013.png
+APP01-FLOW01-S014,APP01,APP01-FLOW01,15,Confirm Address,address_confirmation,APP01/FLOW01/S014.png
+APP01-FLOW01-S015,APP01,APP01-FLOW01,16,Person or Business,account_type_selection,APP01/FLOW01/S015.png
+APP01-FLOW02-S00,APP01,APP01-FLOW02,1,Portfolio - Empty,dashboard,APP01/FLOW02/S00.png
+APP01-FLOW02-S01,APP01,APP01-FLOW02,2,Portfolio - Cash Balance,dashboard,APP01/FLOW02/S01.png
+APP01-FLOW02-S02,APP01,APP01-FLOW02,3,Portfolio - Pending Vault Deposit,dashboard,APP01/FLOW02/S02.png
+APP01-FLOW02-S03,APP01,APP01-FLOW02,4,Portfolio - Year to Date Performance,dashboard,APP01/FLOW02/S03.png
+APP01-FLOW02-S04,APP01,APP01-FLOW02,5,Portfolio - Monthly Performance,dashboard,APP01/FLOW02/S04.png
+APP01-FLOW02-S05,APP01,APP01-FLOW02,6,Portfolio - Asset Summary,dashboard,APP01/FLOW02/S05.png
+APP01-FLOW02-S06,APP01,APP01-FLOW02,7,Portfolio - Currency Breakdown,dashboard,APP01/FLOW02/S06.png
+APP01-FLOW02-S07,APP01,APP01-FLOW02,8,Portfolio - Investment Plans,dashboard,APP01/FLOW02/S07.png
+APP02-FLOW01-S00,APP02,APP02-FLOW01,1,Welcome - Pay Your People,welcome,APP02/FLOW01/S00.png
+APP02-FLOW01-S01,APP02,APP02-FLOW01,2,Welcome - Earn Cashback,welcome,APP02/FLOW01/S01.png
+APP02-FLOW01-S02,APP02,APP02-FLOW01,3,Choose How to Use Venmo,account_type_selection,APP02/FLOW01/S02.png
+APP02-FLOW01-S03,APP02,APP02-FLOW01,4,Phone Number - Empty,phone_input,APP02/FLOW01/S03.png
+APP02-FLOW01-S04,APP02,APP02-FLOW01,5,Phone Number - Filled,phone_input,APP02/FLOW01/S04.png
+APP02-FLOW01-S05,APP02,APP02-FLOW01,6,Verification Code - Empty,verification,APP02/FLOW01/S05.png
+APP02-FLOW01-S06,APP02,APP02-FLOW01,7,Verification Code - Filled,verification,APP02/FLOW01/S06.png
+APP02-FLOW01-S07,APP02,APP02-FLOW01,8,Legal Name - Empty,profile_setup,APP02/FLOW01/S07.png
+APP02-FLOW01-S08,APP02,APP02-FLOW01,9,Legal Name - Filled,profile_setup,APP02/FLOW01/S08.png
+APP02-FLOW01-S09,APP02,APP02-FLOW01,10,Account Information - Empty,registration,APP02/FLOW01/S09.png
+APP02-FLOW01-S010,APP02,APP02-FLOW01,11,Account Information - Filled,registration,APP02/FLOW01/S010.png
+APP02-FLOW01-S011,APP02,APP02-FLOW01,12,Legal Terms and Fees,legal_disclosure,APP02/FLOW01/S011.png
+APP02-FLOW01-S012,APP02,APP02-FLOW01,13,Account Opening and Holding Fees,legal_disclosure,APP02/FLOW01/S012.png
+APP02-FLOW01-S013,APP02,APP02-FLOW01,14,Debit Card and ATM Fees,legal_disclosure,APP02/FLOW01/S013.png
+APP02-FLOW01-S014,APP02,APP02-FLOW01,15,Accept Legal Terms,terms_acceptance,APP02/FLOW01/S014.png
+APP02-FLOW01-S015,APP02,APP02-FLOW01,16,Welcome to Venmo Home,dashboard,APP02/FLOW01/S015.png
+APP02-FLOW02-S00,APP02,APP02-FLOW02,1,Home - Sync Contacts,dashboard,APP02/FLOW02/S00.png
+APP02-FLOW02-S01,APP02,APP02-FLOW02,2,Home - Add Payment Method,dashboard,APP02/FLOW02/S01.png
+APP02-FLOW02-S02,APP02,APP02-FLOW02,3,Home - Debit Card Offer,dashboard,APP02/FLOW02/S02.png
+APP02-FLOW02-S03,APP02,APP02-FLOW02,4,Home - No Activity,dashboard,APP02/FLOW02/S03.png
+APP03-FLOW01-S00,APP03,APP03-FLOW01,1,Home - Image Creation Announcement,home,APP03/FLOW01/S00.png
+APP03-FLOW01-S01,APP03,APP03-FLOW01,2,Memory Personalization Notice,feature_announcement,APP03/FLOW01/S01.png
+APP03-FLOW01-S02,APP03,APP03-FLOW01,3,Home - Suggested Actions,home,APP03/FLOW01/S02.png
+APP03-FLOW01-S03,APP03,APP03-FLOW01,4,Home - New Voice Announcement,home,APP03/FLOW01/S03.png
+APP03-FLOW02-S00,APP03,APP03-FLOW02,1,ChatGPT Splash,splash,APP03/FLOW02/S00.png
+APP03-FLOW02-S01,APP03,APP03-FLOW02,2,Welcome to ChatGPT,welcome,APP03/FLOW02/S01.png
+APP03-FLOW02-S02,APP03,APP03-FLOW02,3,Log In or Sign Up - Empty,authentication,APP03/FLOW02/S02.png
+APP03-FLOW02-S03,APP03,APP03-FLOW02,4,Log In or Sign Up - Email Filled,authentication,APP03/FLOW02/S03.png
+APP03-FLOW02-S04,APP03,APP03-FLOW02,5,Email Verification - Sign In Options,verification,APP03/FLOW02/S04.png
+APP03-FLOW02-S05,APP03,APP03-FLOW02,6,Create Account - Password Empty,registration,APP03/FLOW02/S05.png
+APP03-FLOW02-S06,APP03,APP03-FLOW02,7,Create Account - Password Filled,registration,APP03/FLOW02/S06.png
+APP03-FLOW02-S07,APP03,APP03-FLOW02,8,Email Verification - Code Empty,verification,APP03/FLOW02/S07.png
+APP03-FLOW02-S08,APP03,APP03-FLOW02,9,Email Verification - Code Filled,verification,APP03/FLOW02/S08.png
+APP03-FLOW02-S09,APP03,APP03-FLOW02,10,Name and Age - Empty,profile_setup,APP03/FLOW02/S09.png
+APP03-FLOW02-S010,APP03,APP03-FLOW02,11,Name and Age - Filled,profile_setup,APP03/FLOW02/S010.png
+APP03-FLOW02-S011,APP03,APP03-FLOW02,12,Enable Face ID,security_setup,APP03/FLOW02/S011.png
+APP03-FLOW02-S012,APP03,APP03-FLOW02,13,Notification Permission Request,permission_request,APP03/FLOW02/S012.png
+APP03-FLOW02-S013,APP03,APP03-FLOW02,14,Home - Image Creation Announcement,home,APP03/FLOW02/S013.png
+APP04-FLOW01-S00,APP04,APP04-FLOW01,1,Welcome to WellNest,welcome,APP04/FLOW01/S00.png
+APP04-FLOW01-S01,APP04,APP04-FLOW01,2,Care Profile Details,profile_setup,APP04/FLOW01/S01.png
+APP04-FLOW01-S02,APP04,APP04-FLOW01,3,Choose a Health Goal,goal_selection,APP04/FLOW01/S02.png
+APP04-FLOW01-S03,APP04,APP04-FLOW01,4,Data and Reminder Preferences,privacy_preferences,APP04/FLOW01/S03.png
+APP04-FLOW01-S04,APP04,APP04-FLOW01,5,Care Profile Complete,confirmation,APP04/FLOW01/S04.png
+APP04-FLOW02-S00,APP04,APP04-FLOW02,1,Choose a Care Category,service_selection,APP04/FLOW02/S00.png
+APP04-FLOW02-S01,APP04,APP04-FLOW02,2,Meet Your Clinician,provider_details,APP04/FLOW02/S01.png
+APP04-FLOW02-S02,APP04,APP04-FLOW02,3,Choose a Consultation Time,appointment_scheduling,APP04/FLOW02/S02.png
+APP04-FLOW02-S03,APP04,APP04-FLOW02,4,Review Consultation Booking,booking_review,APP04/FLOW02/S03.png
+APP04-FLOW02-S04,APP04,APP04-FLOW02,5,Consultation Booking Confirmed,confirmation,APP04/FLOW02/S04.png
+APP05-FLOW01-S00,APP05,APP05-FLOW01,1,Review Source Document,document_review,APP05/FLOW01/S00.png
+APP05-FLOW01-S01,APP05,APP05-FLOW01,2,Choose an Output Type,output_selection,APP05/FLOW01/S01.png
+APP05-FLOW01-S02,APP05,APP05-FLOW01,3,Generated Action Plan Draft,generated_output_review,APP05/FLOW01/S02.png
+APP05-FLOW01-S03,APP05,APP05-FLOW01,4,Refine the Action Plan,output_refinement,APP05/FLOW01/S03.png
+APP05-FLOW01-S04,APP05,APP05-FLOW01,5,Action Plan Saved,confirmation,APP05/FLOW01/S04.png
+APP05-FLOW02-S00,APP05,APP05-FLOW02,1,Welcome to Luma,welcome,APP05/FLOW02/S00.png
+APP05-FLOW02-S01,APP05,APP05-FLOW02,2,Workspace Details,workspace_setup,APP05/FLOW02/S01.png
+APP05-FLOW02-S02,APP05,APP05-FLOW02,3,Choose a Response Style,preference_selection,APP05/FLOW02/S02.png
+APP05-FLOW02-S03,APP05,APP05-FLOW02,4,Source Access and Citation Preferences,source_preferences,APP05/FLOW02/S03.png
+APP05-FLOW02-S04,APP05,APP05-FLOW02,5,Workspace Ready,confirmation,APP05/FLOW02/S04.png

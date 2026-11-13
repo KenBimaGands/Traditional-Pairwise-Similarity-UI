@@ -1,0 +1,17 @@
+{
+  "default_is_baseline": true,
+  "baseline_matches_saved": true,
+  "repeatability": true,
+  "no_new_foreground": true,
+  "protected_files_unchanged": true,
+  "decision": "PASS_controlled_12_screen_sample_only",
+  "recommendation": "Reviewed optional full-pilot rerun; no automatic promotion",
+  "production_default_unchanged": true,
+  "segmentation_optimization_stopped": true,
+  "original_tests_passed": 5,
+  "correction_tests_passed": 4,
+  "activation_count": 1,
+  "unchanged_screen_count": 11,
+  "known_miss": "horizontal-only gradients",
+  "full_pilot_run": false
+}

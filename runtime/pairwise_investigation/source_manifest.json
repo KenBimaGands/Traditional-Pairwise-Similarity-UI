@@ -1,0 +1,13 @@
+{
+  "source": "investigate_pairwise.py",
+  "sha256": "cbd7c1a695081d12ec345a3fed6ceb210f5555332f9d56c859c4b933732da5a6",
+  "dependencies": {
+    "numpy": "2.2.6",
+    "Pillow": "13.0.0",
+    "matplotlib": "3.11.2",
+    "scipy": "1.18.1",
+    "scikit-image": "0.26.0"
+  },
+  "existing_feature_version": "results_corrected_pilot",
+  "existing_pairwise_version": "results_pairwise_baseline"
+}

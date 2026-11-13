@@ -1,0 +1,8 @@
+test_complete_reproduction (test_composite_baseline.CompositeTests.test_complete_reproduction) ... ok
+test_identity_symmetry_weights_and_extremes (test_composite_baseline.CompositeTests.test_identity_symmetry_weights_and_extremes) ... ok
+test_pair_universe_and_reject_duplicate (test_composite_baseline.CompositeTests.test_pair_universe_and_reject_duplicate) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 21.056s
+
+OK

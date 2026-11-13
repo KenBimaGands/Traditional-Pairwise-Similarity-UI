@@ -1,0 +1,9 @@
+metric,selection,screen_a,screen_b,app_id,pair_type,distance
+color_emd_distance,lowest,APP02-FLOW01-S015,APP02-FLOW02-S00,APP02,cross_flow,0.0
+color_emd_distance,highest,APP04-FLOW01-S00,APP04-FLOW01-S04,APP04,within_flow,55.602798119820235
+foreground_distance,lowest,APP02-FLOW01-S015,APP02-FLOW02-S00,APP02,cross_flow,0.0
+foreground_distance,highest,APP05-FLOW01-S04,APP05-FLOW02-S01,APP05,cross_flow,0.491528217299578
+edge_distance,lowest,APP02-FLOW01-S015,APP02-FLOW02-S00,APP02,cross_flow,0.0
+edge_distance,highest,APP02-FLOW01-S013,APP02-FLOW01-S05,APP02,within_flow,0.09292899612831858
+layout_distance,lowest,APP02-FLOW01-S015,APP02-FLOW02-S00,APP02,cross_flow,0.0
+layout_distance,highest,APP03-FLOW01-S01,APP03-FLOW02-S08,APP03,cross_flow,0.6242788979284148

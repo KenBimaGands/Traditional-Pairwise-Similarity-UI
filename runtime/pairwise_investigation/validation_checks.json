@@ -1,0 +1,23 @@
+{
+  "screens": 82,
+  "pairs": 709,
+  "within_flow": 411,
+  "cross_flow": 298,
+  "records_aligned": true,
+  "numerical_ranges_valid": true,
+  "exact_reproduction_against_saved_exports": true,
+  "two_repeated_exports_identical": true,
+  "protected_files_unchanged": true,
+  "selections": 120,
+  "inspection_sheets": 40,
+  "unique_selected_pairs": 95,
+  "features_recomputed": false,
+  "formulas_changed": false,
+  "selection_coverage_verified": true,
+  "statistics_groups": 72,
+  "existing_split_tables_match": true,
+  "visually_reviewed_overview_pages": 8,
+  "detailed_ranked_sheets_reviewed": 2,
+  "detailed_diagnostic_case_pages_reviewed": 2,
+  "ground_truth_human_annotations": false
+}

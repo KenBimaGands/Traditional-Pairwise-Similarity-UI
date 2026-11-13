@@ -1,0 +1,6 @@
+app_id,screens,expected_full_pairs,exported_pairs,within_flow,cross_flow
+APP01,24,276,276,148,128
+APP02,20,190,190,126,64
+APP03,18,153,153,97,56
+APP04,10,45,45,20,25
+APP05,10,45,45,20,25

@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Feature Extraction"
+  short_description: "Thesis feature extraction workflow"
+  default_prompt: "Use $feature-extraction in the ui-visual-consistency repository to validate inputs and complete the requested stage while preserving prior results."

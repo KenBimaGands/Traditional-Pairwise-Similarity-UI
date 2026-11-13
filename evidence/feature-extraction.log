@@ -1,0 +1,102 @@
+/Users/kenmac/Documents/thesis-dataset/.venv/lib/python3.13/site-packages/joblib/externals/loky/backend/context.py:134: UserWarning: Could not find the number of physical cores for the following reason:
+invalid literal for int() with base 10: ''
+Returning the number of logical cores instead. You can silence this warning by setting LOKY_MAX_CPU_COUNT to the number of cores you want to use.
+  warnings.warn(
+  File "/Users/kenmac/Documents/thesis-dataset/.venv/lib/python3.13/site-packages/joblib/externals/loky/backend/context.py", line 264, in _count_physical_cores
+    cpu_count_physical = _count_physical_cores_darwin()
+  File "/Users/kenmac/Documents/thesis-dataset/.venv/lib/python3.13/site-packages/joblib/externals/loky/backend/context.py", line 420, in _count_physical_cores_darwin
+    return int(cpu_info)
+1/82 APP01-FLOW01-S00: ok activated=False
+2/82 APP01-FLOW01-S01: ok activated=False
+3/82 APP01-FLOW01-S02: ok activated=False
+4/82 APP01-FLOW01-S03: ok activated=False
+5/82 APP01-FLOW01-S04: ok activated=False
+6/82 APP01-FLOW01-S05: ok activated=False
+7/82 APP01-FLOW01-S06: ok activated=False
+8/82 APP01-FLOW01-S07: ok activated=False
+9/82 APP01-FLOW01-S08: ok activated=False
+10/82 APP01-FLOW01-S09: ok activated=False
+11/82 APP01-FLOW01-S010: ok activated=False
+12/82 APP01-FLOW01-S011: ok activated=False
+13/82 APP01-FLOW01-S012: ok activated=False
+14/82 APP01-FLOW01-S013: ok activated=False
+15/82 APP01-FLOW01-S014: ok activated=False
+16/82 APP01-FLOW01-S015: ok activated=False
+17/82 APP01-FLOW02-S00: ok activated=False
+18/82 APP01-FLOW02-S01: ok activated=False
+19/82 APP01-FLOW02-S02: ok activated=False
+20/82 APP01-FLOW02-S03: ok activated=False
+21/82 APP01-FLOW02-S04: ok activated=False
+22/82 APP01-FLOW02-S05: ok activated=False
+23/82 APP01-FLOW02-S06: ok activated=False
+24/82 APP01-FLOW02-S07: ok activated=False
+25/82 APP02-FLOW01-S00: ok activated=False
+26/82 APP02-FLOW01-S01: ok activated=True
+27/82 APP02-FLOW01-S02: ok activated=False
+28/82 APP02-FLOW01-S03: ok activated=False
+29/82 APP02-FLOW01-S04: ok activated=False
+30/82 APP02-FLOW01-S05: ok activated=False
+31/82 APP02-FLOW01-S06: ok activated=False
+32/82 APP02-FLOW01-S07: ok activated=False
+33/82 APP02-FLOW01-S08: ok activated=False
+34/82 APP02-FLOW01-S09: ok activated=False
+35/82 APP02-FLOW01-S010: ok activated=False
+36/82 APP02-FLOW01-S011: ok activated=False
+37/82 APP02-FLOW01-S012: ok activated=False
+38/82 APP02-FLOW01-S013: ok activated=False
+39/82 APP02-FLOW01-S014: ok activated=False
+40/82 APP02-FLOW01-S015: ok activated=False
+41/82 APP02-FLOW02-S00: ok activated=False
+42/82 APP02-FLOW02-S01: ok activated=False
+43/82 APP02-FLOW02-S02: ok activated=False
+44/82 APP02-FLOW02-S03: ok activated=False
+45/82 APP03-FLOW01-S00: ok activated=False
+46/82 APP03-FLOW01-S01: ok activated=False
+47/82 APP03-FLOW01-S02: ok activated=False
+48/82 APP03-FLOW01-S03: ok activated=False
+49/82 APP03-FLOW02-S00: ok activated=False
+50/82 APP03-FLOW02-S01: ok activated=False
+51/82 APP03-FLOW02-S02: ok activated=False
+52/82 APP03-FLOW02-S03: ok activated=False
+53/82 APP03-FLOW02-S04: ok activated=False
+54/82 APP03-FLOW02-S05: ok activated=False
+55/82 APP03-FLOW02-S06: ok activated=False
+56/82 APP03-FLOW02-S07: ok activated=False
+57/82 APP03-FLOW02-S08: ok activated=False
+58/82 APP03-FLOW02-S09: ok activated=False
+59/82 APP03-FLOW02-S010: ok activated=False
+60/82 APP03-FLOW02-S011: ok activated=False
+61/82 APP03-FLOW02-S012: ok activated=False
+62/82 APP03-FLOW02-S013: ok activated=False
+63/82 APP04-FLOW01-S00: ok activated=False
+64/82 APP04-FLOW01-S01: ok activated=False
+65/82 APP04-FLOW01-S02: ok activated=False
+66/82 APP04-FLOW01-S03: ok activated=False
+67/82 APP04-FLOW01-S04: ok activated=False
+68/82 APP04-FLOW02-S00: ok activated=False
+69/82 APP04-FLOW02-S01: ok activated=False
+70/82 APP04-FLOW02-S02: ok activated=False
+71/82 APP04-FLOW02-S03: ok activated=False
+72/82 APP04-FLOW02-S04: ok activated=False
+73/82 APP05-FLOW01-S00: ok activated=False
+74/82 APP05-FLOW01-S01: ok activated=False
+75/82 APP05-FLOW01-S02: ok activated=False
+76/82 APP05-FLOW01-S03: ok activated=False
+77/82 APP05-FLOW01-S04: ok activated=False
+78/82 APP05-FLOW02-S00: ok activated=False
+79/82 APP05-FLOW02-S01: ok activated=False
+80/82 APP05-FLOW02-S02: ok activated=False
+81/82 APP05-FLOW02-S03: ok activated=False
+82/82 APP05-FLOW02-S04: ok activated=False
+{
+  "requested": 82,
+  "extracted": 82,
+  "errors": [],
+  "activated": [
+    "APP02-FLOW01-S01"
+  ],
+  "protected_files_unchanged": true,
+  "baseline_reproduced": true,
+  "correction_repeatability": true,
+  "selected_sample_reproduced": true
+}

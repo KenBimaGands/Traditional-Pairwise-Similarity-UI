@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Composite Scoring"
+  short_description: "Thesis composite scoring workflow"
+  default_prompt: "Use $composite-scoring in the ui-visual-consistency repository to validate inputs and complete the requested stage while preserving prior results."
